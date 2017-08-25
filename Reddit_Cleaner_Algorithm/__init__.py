@@ -60,7 +60,7 @@ transformer = pickle.load(open("/home/nwolanyk/Downloads/first pickle.sav", 'rb'
 #stop = set(stop)
 #stop = set((nltk.corpus.stopwords.words('english'),',','.',':',';','?','/','\'','\"','\\','|'))
 reddit = praw.Reddit(user_agent = 'Comment Extraction (by madsci75)',
-                     client_id='RAcycG5iqFM8rw', client_secret='RyiRpKdZtchA7a25EP46b00r7-o')
+                     client_id='insert_client_id_token', client_secret='insert_client_secret_token')
 #subreddit = reddit.subreddit('science')
 #submission2 = reddit.submission(url = 'https://www.reddit.com/r/science/comments/6qb07r/blue_light_emitted_from_digital_devices_could/')
 #print(submission2.comments[0])
