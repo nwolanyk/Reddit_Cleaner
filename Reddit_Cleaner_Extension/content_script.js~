@@ -30,7 +30,7 @@ jQuery.expr[':'].regex = function(elem, index, match) {
 //}
 
 
-var baseURL = "https://63.142.253.67:5000/";
+var baseURL = "http://63.142.253.67:5000/";
 var data = {"suburl": window.location.href}
  //Get the parameters descriptions
     $.ajax({
