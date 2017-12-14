@@ -1,5 +1,5 @@
 ## Reddit_Cleaner
-A chrome extension to keep only the top 3 informative comments on reddit. The informative comment is defined by a comment's extensive vocabulary and relevance to the title. The vocabulary was measured by summing a pre-trained tf-idf matrix. The relevance to title was calculated by Google's pre-trained word2vec model. Reddit_Cleaner_Extension houses the Javascript and extension code. Reddit_Cleaner_Algorithm houses the python and data science code.  NOTE this code will not run without a reddit secret_id token. Future updates Soon.
+A chrome extension to keep only the top 3 informative comments on reddit. The informative comment is defined by a comment's extensive vocabulary and relevance to the title. The vocabulary was measured by summing a pre-trained tf-idf matrix. The relevance to title was calculated by Google's pre-trained word2vec model. Reddit_Cleaner_Extension houses the Javascript and extension code. Reddit_Cleaner_Algorithm houses the python and data science code.  NOTE this code will not run without a reddit secret_id token. Future updates Soon 2.
 
 
 ## Extension Architecture
